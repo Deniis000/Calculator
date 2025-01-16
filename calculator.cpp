@@ -1,5 +1,5 @@
 #include <iostream>
-#include  <cmath>
+
 enum kind {
 	operations,
 	numbers
